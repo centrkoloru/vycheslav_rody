@@ -1,7 +1,7 @@
 
 #<p style="text-align: center;">Вячеслав Роду</p>
 <figure markdown>
-![Парапсихолог, регрессолог, мастер медитаций](image-fs8.png){ loading=lazy }{
+![Парапсихолог, регрессолог, мастер медитаций](image-fs8.png){ loading=lazy }
   <figcaption>Парапсихолог, регрессолог, мастер медитаций </figcaption>
 </figure>
 
